@@ -1,11 +1,11 @@
-import MainComponent from "./komponen";
-import "./App.css";
+// import "./App.css";
+import FormApp from "./Form";
 
 function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <MainComponent />
+                <FormApp />
             </header>
         </div>
     );
